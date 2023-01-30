@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617291764237",
+    "project_id": "reactnativefirebase-153b0",
+    "storage_bucket": "reactnativefirebase-153b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617291764237:android:76473ec1d0622a75a7fb44",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617291764237-qn1jdpv290nnbo35p0ieb8k6jjb6v0qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAghwLB3ngtMK66ugIokfg1y3j0i1hGYSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617291764237-qn1jdpv290nnbo35p0ieb8k6jjb6v0qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
