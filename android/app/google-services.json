@@ -7,14 +7,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617291764237:android:76473ec1d0622a75a7fb44",
+        "mobilesdk_app_id": "1:617291764237:android:7aabcd1ffd58b929a7fb44",
         "android_client_info": {
           "package_name": "com.socialapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "617291764237-qn1jdpv290nnbo35p0ieb8k6jjb6v0qd.apps.googleusercontent.com",
+          "client_id": "617291764237-5el8kddt3g846m878sh2t517r7isvec8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +27,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "617291764237-qn1jdpv290nnbo35p0ieb8k6jjb6v0qd.apps.googleusercontent.com",
+              "client_id": "617291764237-5el8kddt3g846m878sh2t517r7isvec8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
